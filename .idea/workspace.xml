@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c27eaef0-704a-4759-a664-6f782f1deb5d" name="Changes" comment="Hlavní třída Hlavni&#10;&#10;Třída Hlavni umí zatím jen vypsat &quot;Ahoj&quot; na konzoli.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tridda.java" afterDir="false" />
+    <list default="true" id="c27eaef0-704a-4759-a664-6f782f1deb5d" name="Changes" comment="Přidání třídy Tridda.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hlavni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hlavni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tridda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tridda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Havrda Matyáš &lt;havrdma1@uhk.cz&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -73,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680078887706</updated>
-      <workItem from="1680078888926" duration="829000" />
+      <workItem from="1680078888926" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="Hlavní třída Hlavni&#10;&#10;Třída Hlavni umí zatím jen vypsat &quot;Ahoj&quot; na konzoli.">
       <created>1680079649839</created>
@@ -82,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680079649839</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Přidání třídy Trida.">
+      <created>1680079808403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680079808403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Přidání třídy Tridda.">
+      <created>1680079871886</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680079871886</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hlavní třída Hlavni&#10;&#10;Třída Hlavni umí zatím jen vypsat &quot;Ahoj&quot; na konzoli." />
-    <option name="LAST_COMMIT_MESSAGE" value="Hlavní třída Hlavni&#10;&#10;Třída Hlavni umí zatím jen vypsat &quot;Ahoj&quot; na konzoli." />
+    <MESSAGE value="Přidání třídy Trida." />
+    <MESSAGE value="Přidání třídy Tridda." />
+    <option name="LAST_COMMIT_MESSAGE" value="Přidání třídy Tridda." />
   </component>
 </project>
